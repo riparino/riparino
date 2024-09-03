@@ -20,4 +20,3 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
 end
 
-gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
