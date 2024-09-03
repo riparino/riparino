@@ -17,3 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+domain: riparino.github.io 
+url: https://riparino.github.io 
+baseurl: /riparino/ 
